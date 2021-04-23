@@ -14,10 +14,4 @@
     <img src="https://img.shields.io/github/issues/overvis/opencart-plugins.svg" />
   </a>
 </p>
-
 <p align="center">Please see READMEs in subprojects for details.</p>
-<p>
-  
-![Image](https://user-images.githubusercontent.com/12776547/115920686-10c88f00-a46a-11eb-8dfd-b6c7c589c79e.png)
-
-</p>
