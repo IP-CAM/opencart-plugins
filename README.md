@@ -18,6 +18,6 @@
 <p align="center">Please see READMEs in subprojects for details.</p>
 <p>
   
-![querty541_extensions](https://user-images.githubusercontent.com/12776547/115920686-10c88f00-a46a-11eb-8dfd-b6c7c589c79e.png)
+![Image](https://user-images.githubusercontent.com/12776547/115920686-10c88f00-a46a-11eb-8dfd-b6c7c589c79e.png)
 
 </p>
